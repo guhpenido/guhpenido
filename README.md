@@ -1,34 +1,55 @@
-# Olá, sou Gustavo Penido! 👋
+<h2 align="center">Hi 👋! My name is Gustavo Penido and I'm a front-web developer from Brazil.</h2>
 
-Sou um entusiasta da programação e um estudante dedicado, atualmente cursando Técnico em Informática no CEFET-MG.
+###
 
-- 🌆 Moro em Belo Horizonte, Brasil.
-- 📚 Atualmente estou focado em expandir meus conhecimentos em programação, desenvolvimento de software e gestão de projetos.
-- 💡 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guhpenido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guhpenido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Habilidades e Interesses
+###
 
-- 💻 Tenho experiência em: Java, ReactJS, HTML/CSS, JavaScript, MySQL, PHP e C.
-- 🔍 Estou explorando: Desenvolvimento Web, Algoritmos e Estruturas de Dados, Frameworks Javascript.
-- 🌱 Estou aprendendo: Node.js, C# e Python.
+<img align="right" height="160" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif"  />
 
-## Projetos Destacados
+###
 
-- [Ceferno](https://cefernosocial.vercel.app/) - Projeto desenvolvido com destino ao Trabalho Final (TCC) do Curso Técnico em Informática no CEFET-MG. Se consiste em uma rede social Web construida a partir do ReactJS e Typescript.
-- [CandyQuiz](https://github.com/guhpenido/candyquiz) - Foi um projeto desenvolvido no meu primeiro semestre de estudos no CEFET-MG, antes disso eu não possuia conhecimento sobre desenvolvimento de software e aplicações web.
-- [Locacar](https://github.com/luqczinn/locacar) - Projeto desenvolvido no 2º semestre do meu 2º ano do técnico em informática no CEFET-MG. Exploramos a linguagem Java, tanto para desktop e para web. Para mim, foi a virada de chave no desenvolvimento de software, após esse projeto eu pude aprojuntar no conteúdo e dominar as funcionalidades utilizadas.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-## Contato
+###
 
-- LinkedIn: [Gustavo Penido](https://www.linkedin.com/in/gustavo-penido-456691276/)
-- Email: gugupenido@gmail.com
-- Outras formas de contato: [Whatsapp](https://wa.link/8v1lje), [Portfolio](#)
+<div align="left">
+  <a href="gustavopenido_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="http://linkedin.com/in/gustavopenidop" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="gugupenido@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5531995106573" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-## Interessado em Colaborar?
+###
 
-- Estou sempre aberto a colaborar em projetos interessantes e desafiadores. Se você acha que posso contribuir com algo, sinta-se à vontade para entrar em contato!
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/guhpenido/guhpenido/output/snake.svg" alt="Snake animation" />
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUHPENIDO&layout=compact)](https://github.com/guhpenido/github-readme-stats)
+###
