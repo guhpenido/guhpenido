@@ -1,5 +1,5 @@
 <h2 align="center">Hi there👋!</h2>
-<p>My name is Gustavo Penido and I'm a back-end developer from Belo Horizonte, Brazil. I currently work at Azapfy, and my focus is on pursuing a career in the development area. I have knowledge in the areas of database, front-end and back-end, qualifying me as a full-stack developer. Furthermore, I am a person with good communication skills, proactivity and easy learning.</p>
+<p>My name is Gustavo Penido and I'm a full-stack developer from Belo Horizonte, Brazil. I currently work at Azapfy, and my focus is on pursuing a career in the development area. I have knowledge in the areas of database, front-end and back-end, qualifying me as a full-stack developer. Furthermore, I am a person with good communication skills, proactivity and easy learning.</p>
 
 ###
 
