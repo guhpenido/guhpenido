@@ -1,24 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Gustavo+Penido!;Back-end+Developer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Gustavo+Penido!;Software+Developer+%26+Technical+Leader+🚀;" />
 </h1>
 
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" height="200" alt="coding gif" />
 </div>
 
-<h3 align="center">🚀 Passionate Back-end Developer from Belo Horizonte, Brazil 🇧🇷</h3>
+<h3 align="center">🚀 Software Developer & Technical Leader from Minas Gerais, Brazil 🇧🇷</h3>
 
 <p align="center">
-  💻 <strong>4+ years</strong> of software development experience<br/>
-  🔥 <strong>2+ years</strong> mastering <strong>PHP</strong>, <strong>Laravel</strong> & <strong>MongoDB</strong><br/>
+  💻 Software Developer focused on building scalable solutions<br/>
+  🚀 Development & Support Leader at <strong>Azapfy</strong><br/>
   🎓 Software Engineering student at <strong>PUC Minas</strong><br/>
-  🏢 Currently building amazing things at <strong>Azapfy 🧡</strong>
+  🤝 Passionate about leadership, problem-solving and continuous improvement
 </p>
 
 <p align="center">
   <em>
-    "Specializing in scalable RESTful APIs, performance optimization, and leading agile teams. 
-    I transform complex problems into elegant solutions while mentoring the next generation of developers! 💡"
+    "I enjoy solving complex problems, leading teams, and building solutions that create real business impact. 
+    My focus is not on a specific technology, but on understanding challenges and delivering results."
   </em>
 </p>
 
@@ -37,24 +37,46 @@
 
 ## 💼 Professional Journey
 
-<img align="right" height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+### 🚀 Development & Support Leader @ Azapfy
+*September 2025 - Present*
 
-### 🚀 **Current Role**
-**Back-end Developer @ Azapfy** *(March 2025 - Present)*
-- 🏗️ Architecting and evolving enterprise back-end systems with **PHP** & **Laravel**
-- ⚡ Performance optimization resulting in 40% faster API responses
-- 👥 Leading agile ceremonies and team workflow optimization
-- 🎯 Mentoring interns and juniors developers and conducting technical interviews
-- 🔄 Modernizing legacy systems with clean architecture principles
+- 👥 Leading Development and Support teams
+- 🎯 Managing goals, KPIs and team performance
+- 🤝 Aligning technical initiatives with business objectives
+- 📚 Conducting onboarding and training programs
+- 🏗️ Supporting architectural decisions and software evolution
+- 🔄 Improving development processes and team workflows
+- 💻 Remaining actively involved in back-end development
 
-### 🎨 **Previous Experience**
-**Front-end Developer @ Azapfy** *(August 2024 - November 2024)*
-- 💻 Crafted responsive, pixel-perfect interfaces with **Next.js** & **TypeScript**
-- 🔗 Seamless API integrations enhancing user experience
+### ⚙️ Back-end Developer @ Azapfy
+*March 2025 - August 2025*
 
-**Supervisor & Tech Consultant @ CDP Assessoria** *(2024 - 2025)*
-- 🤖 Developed Python automations and internal systems
-- 👥 Led team management and technical training programs
+- 🚀 Developed and evolved business-critical systems using PHP and Laravel
+- 🧩 Participated in software architecture and technical decision-making
+- 🔄 Modernized legacy applications and improved code quality
+- 🎯 Assisted with demand triage and task prioritization
+- 👨‍🏫 Mentored interns and supported technical growth within the team
+
+### 🌱 Back-end Developer Intern @ Azapfy
+*October 2024 - March 2025*
+
+- ⚡ Built REST APIs using PHP and Laravel
+- 🛠️ Maintained and improved legacy systems
+- 🚚 Maintained an automated vehicle routing platform using Laravel and Python
+- 📋 Worked with Scrum, Jira, Git Flow and GitHub
+
+### 🎨 Front-end Developer Intern @ Azapfy
+*August 2024 - October 2024*
+
+- 💻 Developed responsive interfaces using Next.js and TypeScript
+- 🔗 Integrated front-end applications with back-end services
+
+### 🔬 Research Scholar @ CEFET-MG
+*August 2022 - August 2023*
+
+- 🏆 Full-stack development of a scientific olympiad platform
+- ⚙️ Built solutions using PHP, Bootstrap and Firebase
+- 📚 Participated in scientific outreach and education initiatives
 
 ###
 
@@ -73,24 +95,21 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+### Backend & Databases
 
-### 🔥 **Current Stack** (2+ years mastery)
-<div>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mongodb,git,postman" height="50" alt="current stack" />
-</div>
+PHP • Laravel • Python • MongoDB • MySQL • Firebase
 
-### 💻 **Full Stack Experience** (4+ years journey)
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,html,css,nodejs" height="50" alt="full stack" />
-</div>
+### Frontend
 
-### 🛡️ **Tools & Environment**
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,linux,windows,figma" height="50" alt="tools" />
-</div>
+React • Next.js • TypeScript • JavaScript • HTML • CSS
 
-</div>
+### Tools & Practices
+
+Git • GitHub • Jira • Agile Methodologies • Scrum • REST APIs
+
+### Leadership & Management
+
+Team Leadership • Technical Mentoring • Agile Ceremonies • KPI Tracking • Process Improvement • Technical Decision Making
 
 ###
 
